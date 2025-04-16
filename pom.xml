@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.42.198:8081/repository/netxperts/</url>
+	      <url>http://13.126.43.251:8081/repository/Java_Web_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.42.198:8081/repository/netxperts-snapshot/</url>
+	      <url>http://13.126.43.251:8081/repository/Java_Web_Snapshot/</url>
 	   	   
 	    	   
 	    </snapshotRepository>
